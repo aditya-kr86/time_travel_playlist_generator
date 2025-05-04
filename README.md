@@ -1,6 +1,3 @@
-Here's a suggested `README.md` file for the `Time Travel Playlist Generator` program:
-
-```markdown
 # Time Travel Playlist Generator
 
 The **Time Travel Playlist Generator** is a unique tool that curates music playlists based on different time periods, enabling users to experience the essence of specific decades, years, or even historical events—all through music.
@@ -78,6 +75,3 @@ If you have any questions or feedback, feel free to reach out:
 ---
 
 Happy time traveling! 🎵
-```
-
-Let me know if you'd like me to tailor this further or include additional details about the project!
